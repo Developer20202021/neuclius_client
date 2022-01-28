@@ -1,0 +1,30 @@
+
+.student-table-container{
+    /* margin: 30px; */
+    background-color: white;
+    padding: 30px;
+}
+
+.studentImage{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+.css-kjirbw-MuiButtonBase-root-MuiButton-root{
+
+    background-color: #34C38F !important;
+}
+
+
+.css-1jbbcbn-MuiDataGrid-columnHeaderTitle{
+
+    font-weight: 900 !important;
+}
+
+
+.css-okt5j6-MuiDataGrid-columnHeaders{
+
+    background-color: #EFF2F7 !important;
+}

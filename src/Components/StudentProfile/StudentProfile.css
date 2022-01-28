@@ -1,0 +1,32 @@
+.img-container{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.img-container img{
+
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 50%;
+
+
+}
+
+
+.css-1ehqt7t{
+
+    background-color: white !important;
+}
+
+.add-section{
+
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    margin-bottom: 30px;
+}

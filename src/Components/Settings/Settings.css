@@ -1,0 +1,12 @@
+
+
+.title-type-setting{
+    color: black;
+}
+
+.title-setting{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}

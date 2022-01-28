@@ -1,0 +1,181 @@
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+
+    background-color: #003032 !important;
+
+    color: white !important;
+
+
+}
+
+.css-1l8j5k8{
+
+    background-color: #003032 !important;
+
+    color: white !important;
+
+}
+
+.css-vubbuv{
+    color: #cac7c7 !important; 
+}
+
+
+.css-cveggr-MuiListItemIcon-root{
+
+    color: white !important;
+}
+
+.css-78trlr-MuiButtonBase-root-MuiIconButton-root{
+
+    color: white !important;
+
+}
+
+
+/* .css-1t29gy6-MuiToolbar-root{
+
+    background-color: #2A3042 !important;
+} */
+
+.headermain{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.userImage{
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-left: -10px;
+}
+
+.drawer-header{
+    color: whitesmoke;
+    font-weight: 900;
+}
+
+.headerBar{
+    display: flex;
+
+  
+    
+}
+
+
+.header-additional{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    gap: 40px;
+    margin-right: 30px;
+}
+
+.user-image-h img{
+    border-radius: 50%;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+
+.user-image-h{
+    cursor: pointer;
+}
+
+
+
+
+
+@media screen and (max-width:1200px) and (min-width:700px) {
+    .toogle-div{
+        position: absolute;
+        color: black;
+        left: 64%;
+        top: 85%;
+        background-color: white;
+        width: 300px;
+      
+        margin-right: 30px;
+        border-radius: 10px;
+        box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    }
+    .user-setting-h-toogle{
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+        padding: 30px;
+    }
+    .user-setting-h-toogle p{
+       
+    }
+    
+}
+
+@media screen and  (min-width:1200px) {
+    .toogle-div{
+        position: absolute;
+        color: black;
+        left: 83%;
+        top: 90%;
+        background-color: white;
+        width: 300px;
+    
+      
+        border-radius: 10px;
+        box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    }
+    .user-setting-h-toogle{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 30px;
+    }
+    .user-setting-h-toogle p{
+        /* text-align: center; */
+    }
+    
+}
+
+
+.user-setting-h-toogle img{
+    border-radius: 50%;
+}
+
+
+.user-name{
+   
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: -20px;
+}
+.user-name p{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    cursor: pointer;
+}
+
+
+.user-setting-notify-h-toogle{
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    
+}
+
+.notification{
+    overflow-y: scroll;
+    height: 300px;
+}
+
+.notify-title p{
+    margin-left: 10px;
+}
+

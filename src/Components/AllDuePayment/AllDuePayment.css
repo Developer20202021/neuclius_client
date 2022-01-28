@@ -1,0 +1,21 @@
+/* .due{
+    color: rgb(255,0,0);
+    font-weight: 700;
+} */
+
+.badge-soft-danger {
+    color: #fa6374;
+    background-color: rgba(250,99,116,.1);
+    font-weight: 700;
+}
+
+.badge {
+    display: inline-block;
+    padding: 0.25em 0.6em;
+    font-size: 26;  
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+}

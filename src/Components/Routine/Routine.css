@@ -1,0 +1,87 @@
+.setting{
+    display: flex;   
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+
+ 
+    color: gray;
+    border-radius: 10px;
+   
+    background-color: white;
+
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    cursor: pointer;
+   
+}
+
+.title-type-setting{
+    color: black;
+}
+
+.routine-des{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-type-d{
+
+    font-weight: 900;
+
+
+}
+
+.badge-soft-info {
+    color: #4bafe1;
+    background-color: rgba(75,175,225,.1);
+    font-weight: 700;
+}
+
+.setting{
+    position: relative;
+}
+.deleteTeacher{
+    position: absolute;
+    top: 0;
+    left: 96%;
+    
+}
+
+
+.remSetting{
+    display: flex;   
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+
+ 
+    color: gray;
+    border-radius: 10px;
+   
+    background-color: white;
+
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    cursor: pointer;
+    position: relative;
+
+    border: 1px solid red;
+}
+
+
+.filter-routine{
+
+
+    padding: 40px;
+
+ 
+    color: gray;
+    border-radius: 10px;
+   
+    background-color: white;
+
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    cursor: pointer;
+   
+}
